@@ -1,9 +1,7 @@
----
-title: Privacy Notice
----
+
 <div data-custom-class="body">
 
-<div>**<span style="font-size: 26px;"><span data-custom-class="title">PRIVACY NOTICE</span></span>**</div>
+//<div>**<span style="font-size: 26px;"><span data-custom-class="title">PRIVACY NOTICE</span></span>**</div>
 
 <div><span style="color: rgb(127, 127, 127);">**<span style="font-size: 15px;"><span data-custom-class="subtitle">Last updated <bdt class="question">February 22, 2021</bdt></span></span>**</span></div>
 
