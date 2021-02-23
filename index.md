@@ -1,8 +1,10 @@
-
+---
+title: Privacy Notice
+---
 <div data-custom-class="body">
----
+
 <div>**<span style="font-size: 26px;"><span data-custom-class="title">PRIVACY NOTICE</span></span>**</div>
----
+
 <div><span style="color: rgb(127, 127, 127);">**<span style="font-size: 15px;"><span data-custom-class="subtitle">Last updated <bdt class="question">February 22, 2021</bdt></span></span>**</span></div>
 
 <div style="line-height: 1.5;"><span style="color: rgb(127, 127, 127);"><span style="color: rgb(89, 89, 89); font-size: 15px;"><span data-custom-class="body_text">Thank you for choosing to be part of our community at <bdt class="question">Avraham Marks</bdt><span style="color: rgb(89, 89, 89);"><span data-custom-class="body_text"></span></span> ("<span style="color: rgb(89, 89, 89);"><span data-custom-class="body_text"></span></span>**Company**</span><span style="color: rgb(127, 127, 127);"><span style="color: rgb(89, 89, 89);"><span data-custom-class="body_text"><span style="color: rgb(89, 89, 89);"><span data-custom-class="body_text"><bdt class="statement-end-if-in-editor"><span data-custom-class="body_text"></span></bdt></span></span></span></span></span><span data-custom-class="body_text">", "**we**", "**us**", "**our**"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at <bdt class="question">ardesktophelicopter@gmail.com</bdt>.</span></span></span></div>
