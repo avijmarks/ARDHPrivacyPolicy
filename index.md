@@ -1,4 +1,5 @@
 ---
+title: Privacy Policy
 ---
 <div data-custom-class="body">
 
